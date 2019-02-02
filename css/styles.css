@@ -93,7 +93,7 @@ body {
   }
 }
 
-/*.logo-right {
+.logo-right {
   position: absolute;
   top: 15%;
   right: 33%;
@@ -103,7 +103,7 @@ body {
   border-radius: 0 45px 45px 0;
 }
 
-.circle-right {
+/*.circle-right {
   position: absolute;
   bottom: 30%;
   left: 30%;
