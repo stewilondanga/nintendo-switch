@@ -113,18 +113,21 @@ body {
   border-radius: 50%;
 }
 
-/*@keyframes move-up {
+@keyframes move-up {
   0% {
     bottom: 10%;
   }
+
   50% {
     bottom: 70%;
   }
+
   100% {
     bottom: 10%;
   }
 }
-.joy-con-left {
+
+/*.joy-con-left {
   position: relative;
   background: #00bbda;
   border-radius: 70px 0 0 70px;
