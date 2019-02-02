@@ -103,7 +103,7 @@ body {
   border-radius: 0 45px 45px 0;
 }
 
-/*.circle-right {
+.circle-right {
   position: absolute;
   bottom: 30%;
   left: 30%;
@@ -113,7 +113,7 @@ body {
   border-radius: 50%;
 }
 
-@keyframes move-up {
+/*@keyframes move-up {
   0% {
     bottom: 10%;
   }
