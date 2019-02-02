@@ -59,7 +59,7 @@ body {
   border-radius: 45px 0 0 45px;
 }
 
-/*.inside-left {
+.inside-left {
   position: absolute;
   top: 5%;
   left: 10%;
@@ -69,7 +69,7 @@ body {
   border-radius: 40px 0 0 40px;
 }
 
-.circle-left {
+/*.circle-left {
   position: absolute;
   top: 20%;
   left: 30%;
