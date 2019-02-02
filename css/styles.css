@@ -153,7 +153,7 @@ body {
   background: #1a1a1a;
 }
 
-/*.d-pad-left-1 {
+.d-pad-left-1 {
   position: absolute;
   top: 55%;
   left: 38.5%;
@@ -163,7 +163,7 @@ body {
   background: #1a1a1a;
 }
 
-.d-pad-left-2 {
+/*.d-pad-left-2 {
   position: absolute;
   top: 70%;
   left: 38.5%;
