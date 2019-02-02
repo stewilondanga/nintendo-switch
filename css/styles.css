@@ -289,7 +289,7 @@ body {
   background: #1a1a1a;
 }
 
-/*@media all and (max-width: 900px) {
+@media all and (max-width: 900px) {
   .box {
     width: 700px;
     height: 280px;
@@ -315,7 +315,8 @@ body {
     border-radius: 0 31.5px 31.5px 0;
   }
 }
-@media all and (max-width: 700px) {
+
+/*@media all and (max-width: 700px) {
   .box {
     width: 500px;
     height: 200px;
