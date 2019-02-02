@@ -39,7 +39,7 @@ body {
   background: #0d0d0d;
 }
 
-/*.screen {
+.screen {
   position: relative;
   top: 5%;
   left: 2.5%;
@@ -49,7 +49,7 @@ body {
   border-radius: 5px;
 }
 
-.logo-left {
+/*.logo-left {
   position: absolute;
   top: 15%;
   left: 33%;
