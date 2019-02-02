@@ -279,7 +279,7 @@ body {
   background: #1a1a1a;
 }
 
-/*.small-circle {
+.small-circle {
   position: absolute;
   top: 85%;
   left: 10%;
@@ -289,7 +289,7 @@ body {
   background: #1a1a1a;
 }
 
-@media all and (max-width: 900px) {
+/*@media all and (max-width: 900px) {
   .box {
     width: 700px;
     height: 280px;
