@@ -79,18 +79,21 @@ body {
   border-radius: 50%;
 }
 
-/*@keyframes move-down {
+@keyframes move-down {
   0% {
     top: 10%;
   }
+
   50% {
     top: 70%;
   }
+
   100% {
     top: 10%;
   }
 }
-.logo-right {
+
+/*.logo-right {
   position: absolute;
   top: 15%;
   right: 33%;
