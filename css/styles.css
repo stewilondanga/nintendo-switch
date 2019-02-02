@@ -269,7 +269,7 @@ body {
   background: #1a1a1a;
 }
 
-/*.d-pad-right-4 {
+.d-pad-right-4 {
   position: absolute;
   bottom: 62.5%;
   right: 18%;
@@ -279,7 +279,7 @@ body {
   background: #1a1a1a;
 }
 
-.small-circle {
+/*.small-circle {
   position: absolute;
   top: 85%;
   left: 10%;
