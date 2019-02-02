@@ -49,7 +49,7 @@ body {
   border-radius: 5px;
 }
 
-/*.logo-left {
+.logo-left {
   position: absolute;
   top: 15%;
   left: 33%;
@@ -59,7 +59,7 @@ body {
   border-radius: 45px 0 0 45px;
 }
 
-.inside-left {
+/*.inside-left {
   position: absolute;
   top: 5%;
   left: 10%;
