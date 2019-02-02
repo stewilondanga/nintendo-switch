@@ -343,7 +343,7 @@ body {
   }
 }
 
-/*@media all and (max-width: 500px) {
+@media all and (max-width: 500px) {
   .box {
     width: 250px;
     height: 100px;
@@ -370,6 +370,7 @@ body {
   }
 }
 
+/*
 .containers {
   width: 520px;
   margin: 20px auto;
