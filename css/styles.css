@@ -35,11 +35,11 @@ body {
   border-radius: 60px;
 }
 
-/*.screen-body {
+.screen-body {
   background: #0d0d0d;
 }
 
-.screen {
+/*.screen {
   position: relative;
   top: 5%;
   left: 2.5%;
