@@ -193,7 +193,7 @@ body {
   background: #1a1a1a;
 }
 
-/*.small-square {
+.small-square {
   position: absolute;
   top: 85%;
   right: 10%;
@@ -203,7 +203,7 @@ body {
   background: #1a1a1a;
 }
 
-.joy-con-right {
+/*.joy-con-right {
   position: relative;
   background: #ff5f53;
   border-radius: 0 70px 70px 0;
