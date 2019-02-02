@@ -203,13 +203,13 @@ body {
   background: #1a1a1a;
 }
 
-/*.joy-con-right {
+.joy-con-right {
   position: relative;
   background: #ff5f53;
   border-radius: 0 70px 70px 0;
 }
 
-.joystick-right {
+/*.joystick-right {
   position: absolute;
   bottom: 20%;
   left: 25%;
