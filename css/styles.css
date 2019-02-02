@@ -219,7 +219,7 @@ body {
   background: #1a1a1a;
 }
 
-/*.plus-sign-1 {
+.plus-sign-1 {
   position: absolute;
   top: 2.5%;
   right: 77%;
@@ -229,7 +229,7 @@ body {
   background: #1a1a1a;
 }
 
-.plus-sign-2 {
+/*.plus-sign-2 {
   position: absolute;
   top: 5%;
   right: 70%;
