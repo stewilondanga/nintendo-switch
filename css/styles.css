@@ -127,13 +127,13 @@ body {
   }
 }
 
-/*.joy-con-left {
+.joy-con-left {
   position: relative;
   background: #00bbda;
   border-radius: 70px 0 0 70px;
 }
 
-.joystick-left {
+/*.joystick-left {
   position: absolute;
   top: 15%;
   left: 25%;
